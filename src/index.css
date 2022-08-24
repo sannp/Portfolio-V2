@@ -1,0 +1,32 @@
+html {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+	-webkit-box-sizing: inherit;
+	box-sizing: border-box;
+}
+body {
+	font-family: "Montserrat", sans-serif;
+	background-color: rgb(60, 60, 78);
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+ul {
+	padding: 0;
+}
+ul li {
+	list-style: none;
+}
+a {
+	color: #ffe66d;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
